@@ -9,6 +9,7 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/wkkkis/gulp_example.git",
   "devDependencies": {
     "browser-sync": "^2.27.1",
     "del": "^6.0.0",
